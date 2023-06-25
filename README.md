@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Samuel Lopes
+## 👋 Hello!
 
 <div align="center">
 
