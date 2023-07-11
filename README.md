@@ -2,7 +2,7 @@
 
 ### 📖 Student Front-End Dev 🖊️
 
-<a href="https://samuellopes-portfolio.vercel.app">
+<a href="https://samuellopes.vercel.app">
   <img align="center" alt="Portfolio Cover" src="assets/cover.png">
 </a><br><br>
 
