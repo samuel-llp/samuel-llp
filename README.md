@@ -9,9 +9,11 @@
 <a href="https://www.linkedin.com/in/samuel-lopes-28b184232/">
   <img align="center" alt="LinkedIn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
+
 <a href="https://www.behance.net/samuelllp/appreciated">
-  <img align="center" alt="Behance" height="40" width="50" src="https://seeklogo.com/images/B/behance-logo-0DC7CB7635-seeklogo.com.png">
+  <img align="center" alt="Behance" height="40" width="40" src="https://seeklogo.com/images/B/behance-logo-0DC7CB7635-seeklogo.com.png">
 </a>
+
 <a href="https://www.instagram.com/samuel.llp/">
   <img align="center" alt="Instagram" height="40" width="40" src=https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png>
 </a>
