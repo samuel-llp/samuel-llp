@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://www.behance.net/samuelllp/appreciated">
-  <img align="center" alt="Behance" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-plain.svg">
+  <img align="center" alt="Behance" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg">
 </a>
 
 <br>
