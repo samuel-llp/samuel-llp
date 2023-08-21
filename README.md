@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://www.behance.net/samuelllp/appreciated">
-  <img align="center" alt="Behance" height="30" width="40" src="https://seeklogo.com/images/B/behance-logo-DD6F82C17B-seeklogo.com.png">
+  <img align="center" alt="Behance" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-plain.svg">
 </a>
 
 <a href="https://www.instagram.com/samuel.llp/">
