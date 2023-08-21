@@ -6,12 +6,12 @@
   <img align="center" alt="Portfolio Cover" src="assets/cover.png">
 </a><br><br>
 
-<a href="https://www.linkedin.com/in/samuel-lopes-28b184232/">
-  <img align="center" alt="LinkedIn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</a>
-
 <a href="https://www.behance.net/samuelllp/appreciated">
   <img align="center" alt="Behance" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-plain.svg">
+</a>
+
+<a href="https://www.linkedin.com/in/samuel-lopes-28b184232/">
+  <img align="center" alt="LinkedIn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
 
 <a href="https://www.instagram.com/samuel.llp/">
