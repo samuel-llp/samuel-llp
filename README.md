@@ -1,6 +1,6 @@
 <div align="center">
 
-### 📖 Student Front-End Dev 🖊️
+### 🎨 Interface de Usuário (UI/UX) | 💻 Front-end | 🚀 Aspirante a Full Stack
 
 <a href="https://samuellopes.vercel.app">
   <img align="center" alt="Portfolio Cover" src="assets/cover.png">
